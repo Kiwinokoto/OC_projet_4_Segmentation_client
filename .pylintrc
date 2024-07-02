@@ -1,0 +1,9 @@
+[MASTER]
+
+# Ignore certain errors or warnings
+disable = C0303, C0301
+
+[FORMAT]
+
+# Set the line length to a value that suits your project
+max-line-length = 120

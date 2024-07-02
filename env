@@ -1,0 +1,5 @@
+conda create -n myenv_p4 python=3.11.4 jupyter numpy pandas matplotlib seaborn statsmodels scipy scikit-learn tensorflow xgboost shap lime plotly yellowbrick
+
+conda activate myenv_p4
+
+conda deactivate
